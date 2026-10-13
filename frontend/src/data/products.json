@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Truffle Cake",
+    "category": "cakes",
+    "price": 299,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=900&q=80",
+    "description": "Dark chocolate sponge layered with smooth ganache."
+  },
+  {
+    "id": 2,
+    "name": "Rose Berry Celebration",
+    "category": "cakes",
+    "price": 339,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1535141192574-5d4897c12636?auto=format&fit=crop&w=900&q=80",
+    "description": "Vanilla cream cake topped with fresh berries."
+  },
+  {
+    "id": 6,
+    "name": "Brioche Loaf",
+    "category": "breads",
+    "price": 289,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=900&q=80",
+    "description": "Soft rich brioche perfect for breakfast slices."
+  },
+  {
+    "id": 4,
+    "name": "Pistachio Danish",
+    "category": "pastries",
+    "price": 179,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1483695028939-5bb13f8648b0?auto=format&fit=crop&w=900&q=80",
+    "description": "Flaky pastry with pistachio cream and glaze."
+  },
+  {
+    "id": 5,
+    "name": "Artisan Sourdough",
+    "category": "breads",
+    "price": 329,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+    "description": "Naturally leavened sourdough with a crisp crust."
+  },
+  {
+    "id": 7,
+    "name": "Caramel Opera Slice",
+    "category": "pastries",
+    "price": 229,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1558301211-0d8c8ddee6ec?auto=format&fit=crop&w=900&q=80",
+    "description": "Elegant layered pastry with coffee-caramel notes."
+  },
+  {
+    "id": 8,
+    "name": "Hazelnut Velvet Cake",
+    "category": "cakes",
+    "price": 379,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1621303837174-89787a7d4729?auto=format&fit=crop&w=900&q=80",
+    "description": "Premium hazelnut praline cake with velvet finish."
+  },
+  {
+    "id": 9,
+    "name": "Red Velvet Cream Cake",
+    "category": "cakes",
+    "price": 359,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=900&q=80",
+    "description": "Classic red velvet sponge with silky cream cheese frosting."
+  },
+  {
+    "id": 10,
+    "name": "Blueberry Cheesecake",
+    "category": "cakes",
+    "price": 389,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=900&q=80",
+    "description": "Creamy baked cheesecake finished with fresh blueberry compote."
+  },
+  {
+    "id": 11,
+    "name": "Salted Caramel Tart",
+    "category": "pastries",
+    "price": 249,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1519915028121-7d3463d20b13?auto=format&fit=crop&w=900&q=80",
+    "description": "Buttery tart shell layered with rich salted caramel filling."
+  },
+  {
+    "id": 12,
+    "name": "Chocolate Eclair",
+    "category": "pastries",
+    "price": 199,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=900&q=80",
+    "description": "Light choux pastry filled with vanilla cream and dark glaze."
+  },
+  {
+    "id": 13,
+    "name": "Strawberry Mille-Feuille",
+    "category": "pastries",
+    "price": 279,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1488477304112-4944851de03d?auto=format&fit=crop&w=900&q=80",
+    "description": "Crisp puff layers with strawberry cream and fresh fruit."
+  },
+  {
+    "id": 14,
+    "name": "Cinnamon Roll Supreme",
+    "category": "pastries",
+    "price": 169,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1509365465985-25d11c17e812?auto=format&fit=crop&w=900&q=80",
+    "description": "Soft cinnamon swirl topped with vanilla glaze."
+  },
+  {
+    "id": 15,
+    "name": "Butter Croissant",
+    "category": "pastries",
+    "price": 139,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=900&q=80",
+    "description": "Flaky French-style croissant with golden crisp layers."
+  },
+  {
+    "id": 16,
+    "name": "Whole Wheat Bread",
+    "category": "breads",
+    "price": 219,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?auto=format&fit=crop&w=900&q=80",
+    "description": "Hearty whole wheat loaf packed with natural fiber."
+  },
+  {
+    "id": 18,
+    "name": "Garlic Herb Focaccia",
+    "category": "breads",
+    "price": 299,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1541592106381-b31e9677c0e5?auto=format&fit=crop&w=900&q=80",
+    "description": "Olive oil focaccia infused with garlic and rosemary."
+  },
+  {
+    "id": 20,
+    "name": "Milk Bread Loaf",
+    "category": "breads",
+    "price": 239,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?auto=format&fit=crop&w=900&q=80",
+    "description": "Pillowy soft milk bread with subtle sweetness."
+  },
+  {
+    "id": 21,
+    "name": "Belgian Chocolate Mousse Cake",
+    "category": "cakes",
+    "price": 399,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=900&q=80",
+    "description": "Decadent mousse layers with glossy Belgian chocolate finish."
+  },
+  {
+    "id": 22,
+    "name": "Choco Lava Mini Cake",
+    "category": "cakes",
+    "price": 349,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7?auto=format&fit=crop&w=900&q=80",
+    "description": "Warm mini cake with a rich molten chocolate center."
+  },
+  {
+    "id": 23,
+    "name": "Dark Chocolate Brownie Stack",
+    "category": "pastries",
+    "price": 239,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?auto=format&fit=crop&w=900&q=80",
+    "description": "Fudgy brownie squares finished with chocolate drizzle."
+  },
+  {
+    "id": 24,
+    "name": "Chocolate Chunk Cookie",
+    "category": "pastries",
+    "price": 99,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=900&q=80",
+    "description": "Crisp-edged cookie packed with premium dark chocolate chunks."
+  },
+  {
+    "id": 25,
+    "name": "Butter Almond Biscuits",
+    "category": "pastries",
+    "price": 149,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?auto=format&fit=crop&w=900&q=80",
+    "description": "Crunchy butter biscuits infused with roasted almond notes."
+  },
+  {
+    "id": 26,
+    "name": "Cocoa Hazelnut Biscuits",
+    "category": "pastries",
+    "price": 169,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=900&q=80",
+    "description": "Rich cocoa biscuits with toasted hazelnut crunch."
+  },
+  {
+    "id": 27,
+    "name": "Double Choc Biscuit Box",
+    "category": "pastries",
+    "price": 329,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1586985289906-406988974504?auto=format&fit=crop&w=900&q=80",
+    "description": "Gift box of handcrafted biscuits dipped in dark chocolate."
+  },
+  {
+    "id": 28,
+    "name": "Vanilla Choco Swirl Cookies",
+    "category": "pastries",
+    "price": 129,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1598373182133-52452f7691ef?auto=format&fit=crop&w=900&q=80",
+    "description": "Attractive swirl cookies with vanilla and cocoa flavor."
+  }
+]

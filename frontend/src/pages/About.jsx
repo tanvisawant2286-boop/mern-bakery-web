@@ -1,0 +1,7 @@
+export default function About() {
+  return <main className="container py-5">
+    <section className="row g-4 align-items-center"><div className="col-lg-6"><div className="glass-card p-4 p-md-5"><p className="hero-kicker text-accent mb-2">// Our story</p><h1 className="section-title">A little sweetness, made with a lot of heart</h1><p className="text-muted-custom">Quality Bakery started with one belief: everyday baking should feel luxurious and warm at the same time. Our bakers blend classic techniques with premium ingredients to create flavors that stay with you.</p><p className="text-muted-custom mb-0">From handcrafted celebration cakes to rustic sourdough, every item is prepared in small batches for unmatched freshness.</p></div></div>
+      <div className="col-lg-6"><img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1200&q=80" alt="A warm bakery interior" className="img-fluid rounded-4 shadow" loading="lazy" /></div></section>
+    <section className="row g-4 mt-1">{[["Premium Ingredients", "Only high-grade chocolate, real butter, and farm-fresh dairy."], ["Handcrafted Daily", "Freshly baked every morning by expert pastry bakers."], ["Made for You", "Celebrating birthdays, weddings, and every sweet moment."]].map(([title, text]) => <div className="col-md-4" key={title}><div className="glass-card p-4 h-100"><h5>{title}</h5><p className="text-muted-custom small mb-0">{text}</p></div></div>)}</section>
+  </main>;
+}
