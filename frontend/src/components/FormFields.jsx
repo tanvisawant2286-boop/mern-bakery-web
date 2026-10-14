@@ -1,9 +1,9 @@
-export function Field({ label, name, type = "text", required = false, textarea = false, pattern, placeholder, min }) {
+export function Field({ label, name, type = "text", required = false, textarea = false, pattern, placeholder, min, maxLength, inputMode, title }) {
   const id = `field-${name}`;
   return <div className={textarea ? "col-12" : "col-md-6"}><label className="form-label" htmlFor={id}>{label}</label>
     {textarea
       ? <textarea className="form-control" id={id} name={name} rows="4" required={required} placeholder={placeholder} />
-      : <input className="form-control" id={id} name={name} type={type} required={required} pattern={pattern} placeholder={placeholder} min={min} />}
+      : <input className="form-control" id={id} name={name} type={type} required={required} pattern={pattern} placeholder={placeholder} min={min} maxLength={maxLength} inputMode={inputMode} title={title} />}
   </div>;
 }
 
